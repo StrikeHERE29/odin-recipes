@@ -1,0 +1,19 @@
+.container{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+   
+
+}
+.container img{
+    border-radius: 25%;
+    width: 20%;
+    height: 20%;
+}
+body{
+    background-color: rgb(216, 224, 170);
+}
+h1{
+    text-align: center;
+   
+}
